@@ -1,0 +1,7 @@
+.idea*
+.ipynb*
+__pycache__*
+rotations.f90
+rotationsmodule.c
+
+*pyc
